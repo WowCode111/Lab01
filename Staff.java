@@ -11,6 +11,6 @@ class Staff extends Person{
     @Override
     public void displayInfo (){
         super.displayInfo();
-        System.out.println("Grade Level: " + department);
+        System.out.println("Department: " + department);
     }
 }

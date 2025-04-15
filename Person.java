@@ -13,8 +13,8 @@ class Person {
     
     
     public void displayInfo (){
-        System.out.println("Student name: " + name);
-        System.out.println("Student id: " + id);
+        System.out.println("Name: " + name);
+        System.out.println("Id: " + id);
     }
 
 }
